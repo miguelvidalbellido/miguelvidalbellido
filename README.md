@@ -25,21 +25,21 @@
 Aquí algunas de las tecnologías y herramientas con las que he trabajado:
 
 ### Frontend:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,jquery,angular,vue,css,bootstrap" /> <!-- react -->
   </a>
 </p>
 
 ### Backend:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,nodejs,prisma,laravel,spring,postgres,mysql,mongo" /> <!-- django  -->
   </a>
 </p>
 
 ### Herramientas de Desarrollo:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,docker" /> 
   </a>
